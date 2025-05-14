@@ -1,3 +1,5 @@
+## Insurance charges prediction
+
 This project aims to develop a machine learning model to predict insurance charges based on individual characteristics. The model is built using a Random Forest algorithm, which is effective for regression tasks. The project includes the following steps:
 
 ## 1- Data Collection: 
